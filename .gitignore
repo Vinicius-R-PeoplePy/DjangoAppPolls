@@ -1,0 +1,22 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.env
+*.venv
+*.idea/
+
+# Django
+db.sqlite3
+*.log
+staticfiles/
+media/
+*.pyc
+.env
+
+# Environment Variables
+.env
+
+# Exclude virtual environment
+venv/
